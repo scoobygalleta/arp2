@@ -1,3 +1,6 @@
+Deliverable by Miguel Angel Sempere Vicente and David Villanueva Álvarez.
+Github: [https://github.com/scoobygalleta/ARP_1](https://github.com/scoobygalleta/arp2/)
+
 # Requirements
 To compile the application it is required:
 * ncurses library  
