@@ -1,5 +1,5 @@
 Deliverable by Miguel Angel Sempere Vicente and David Villanueva Álvarez.
-Github repository [here](https://github.com/scoobygalleta/arp2/)
+Github repository [here](https://github.com/scoobygalleta/arp2/).
 
 # Requirements
 To compile the application it is required:
